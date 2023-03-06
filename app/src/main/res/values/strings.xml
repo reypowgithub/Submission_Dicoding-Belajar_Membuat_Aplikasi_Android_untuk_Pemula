@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">UKM Tel-U</string>
+    <string name="ukm_name">Nama UKM</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="moveAbout">About Me</string>
+    <string name="Slected">UKM Detail</string>
+
+    <string name="profil1">@drawable/about_profil1</string>
+    <string name="about_name">Reynhard Powiwi</string>
+    <string name="about_email">a360dkx4118@bangkit.academy</string>
+    <string name="about_backtohome">Kembali</string>
+    <string name="kategori">ketegori</string>
+    <string name="sosmed">sosmed</string>
+    <string name="title_kategori">Kategori</string>
+    <string name="title_Sosmed">Sosial Media</string>
+    <string name="title_deskripsi">Deskripsi</string>
+    <string name="image_splash">Image_Splash</string>
+    <string name="PowerByPPKMB">Power By PKKMB Telkom University</string>
+    <string name="share">Share</string>
+    <string name="title_addres">Alamat</string>
+    <string name="basecamp">basecamp</string>
+    <string name="title_won">Juara</string>
+    <string name="lomba">juara</string>
+
+
+    <string-array name="data_name">
+        <item>Alfath</item>
+        <item>Archatel</item>
+        <item>Persatuan Catur</item>
+        <item>Choir</item>
+        <item>Tel-U Esport</item>
+        <item>KBMS</item>
+        <item>KMH</item>
+        <item>KMK</item>
+        <item>PMK</item>
+        <item>SES</item>
+    </string-array>
+
+    <string-array name="data_decsription">
+        <item>Al-Fath adalah sebuah lembaga dakwah kampus Universitas Telkom yang secara resmi berdiri pada 28 November 2013 hasil dari penggabungan 4 LDK. LDK Al – Fath Universitas Telkom dalam operasionalnya menjalankan fungsi pergerakan, pembinaan, pengkajian dan pelayanan.</item>
+        <item>Kegiatan Panahan Telkom University merupakan unit kegiatan mahasiswa dibawah Bagian Kemahasiswaan Telkom University masa bakti tahun 2015. Unit Kegiatan Panahan merupakan suatu unit yang bergerak pada bidang olahraga tradisional yaitu olahraga panahan. Unit Kegiatan Panahan Telkom University menghimpun mahasiswa untuk melestarikan kebudayaan panahan.</item>
+        <item>UKM Catur didirikan pada tanggal 23 Maret 2009. Jumlah anggota saat ini yang terdaftar sebanyak 20 orang. Kami memiliki aktivitas rutin yaitu: Mengadakan event (TCC dan CONTRA)</item>
+        <item>Telkom University Youth Choir merupakan sub-choir terbaru dari Telkom University Choir, beranggotakan 128 orang yang berusia 18-20 tahun, anggota Telkom University Youth Choir merupakan orang-orang terpilih yang telah lulus berbagai macam proses audisi yang terakhir dibuka pada tahun 2020.</item>
+        <item>Tel-U Esports adalah sebuah UKM yang mewadahi komunitas-komunitas video games yang ada di Telkom University.</item>
+        <item>Keluarga Besar Mahasiswa Sulawesi (KBMS) yang disingkat dengan nama KBMS merupakan sebuah UKM yang menghimpun mahasiswa/i Sulawesi Telkom University dan pengembangan kebudayaan Sulawesi khususnya di Telkom University yang berdomisili di Bandung.</item>
+        <item>Keluarga Mahasiswa Hindu (KMH) Telkom University adalah Unit Kegiatan Mahasiwa di bidang Kerohanian Hindu yang menaungi seluruh Mahasiswa Hindu di kampus Telkom University.</item>
+        <item>KMK Universitas Telkom resmi berdiri sejak 2014. Ketua pertama dalam pada periode pertama masa kepengurusan KMK Universitas Telkom adalah Sdr. Nikolaus Aloysius Yempormase dari Fakultas Ekonomi Bisnis.Saat ini ketua KMK Universitas Telkom dipegang oleh Sdr. Anthonius Teddy dari Fakultas Ekonomi Bisnis dengan wakilnya Sdr. Giovanni Andre dari Fakultas Rekayasa Industri.</item>
+        <item>Persekutuan Mahasiswa Kristen (PMK) PMK merupakan wadah dimana mahasiswa-mahasiswi Kristen dapat berkumpul, bersekutu, dan bertumbuh secara rohani bersama saudara seiman.</item>
+        <item>Student English Society (SES) adalah sebuah unit kegiatan mahasiswa Telkom University yang berfokus pada kegiatan dalam bidang-bidang berbahasa Inggris. Dalam unit kegiatan yang berfokus pada kompetisi ini, kami melatih member kami yang memiliki passion dalam berbahasa inggris untuk bersaing dengan universitas lain. Dengan atmosfer kekeluargaan dan senior – senior yang berpengalaman,</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alfath</item>
+        <item>@drawable/archatel</item>
+        <item>@drawable/catur</item>
+        <item>@drawable/choir</item>
+        <item>@drawable/esport</item>
+        <item>@drawable/kbms</item>
+        <item>@drawable/kmh</item>
+        <item>@drawable/kmk</item>
+        <item>@drawable/pmk</item>
+        <item>@drawable/ses</item>
+    </integer-array>
+
+    <string-array name="data_kategori">
+        <item>Kerohanian</item>
+        <item>Olahraga</item>
+        <item>Olahraga</item>
+        <item>Kesenian</item>
+        <item>Olahraga</item>
+        <item>Organda</item>
+        <item>Kerohanian</item>
+        <item>Kerohanian</item>
+        <item>Kerohanian</item>
+        <item>Akademik</item>
+    </string-array>
+
+    <string-array name="data_sosmed">
+        <item>alfath_telu (instagram)</item>
+        <item>telkomarchery (instagram)</item>
+        <item>ukmcaturtelkom (instagram)</item>
+        <item>telkomunivchoir (instagram)</item>
+        <item>teluesports (instagram)</item>
+        <item>officialkbms (instagram)</item>
+        <item>kmh.telkomuniversity (instagram)</item>
+        <item>kmk_telkomuniv (instagram)</item>
+        <item>pmk_telkomuniversity (instagram)</item>
+        <item>sestelkomuniv (instagram)</item>
+    </string-array>
+
+    <string-array name="Basecamp">
+        <item>Gedung damar lantai 2 No.21</item>
+        <item>Gedung damar lantai 2 No.22</item>
+        <item>Gedung damar lantai 2 No.23</item>
+        <item>Gedung damar lantai 1 No.21</item>
+        <item>Gedung damar lantai 1 No.23</item>
+        <item>Gedung damar lantai 1 No.10</item>
+        <item>Gedung damar lantai 1 No.8</item>
+        <item>Gedung damar lantai 1 No.15</item>
+        <item>Gedung damar lantai 1 No.11</item>
+        <item>Gedung damar lantai 1 No.13</item>
+    </string-array>
+
+    <string-array name="lomba">
+        <item>1) Juara 1 Thafiz Alquran \n
+        2) Juara 1 kligrafy </item>
+        <item>2) Juara 2 Pemanahan Nasional \n
+        2) Juara 1 Pemanahan Internasional \n
+        3) Juara harapan pemanahan kabupaten </item>
+        <item>1) Juara UKM terfavorit \n</item>
+        2) Juara 1 Catur di Universitas Maumaukamu \n
+        3) Juara 1 Catur kabupaten bandung
+        <item>1) Juara 1 Chor Colombia University \n
+        2) Juara 1 Choir Universitas Muhammadiah</item>
+        <item>1) Juara 1 Mobile Legend Internasional \n
+        2) Juara MPV Mobile Legend Universitas maumauaja</item>
+        <item>1) The Best UKM 2022</item>
+        <item>1) The Best UKM 2021</item>
+        <item>1) Juara 1 Cerdas Cermat Alkitab Universitas Muhammadiah \n
+        2) Juara 1 Paduan Suara Rohani \n
+        3) Juara 3 Melukis Tokoh Alkitab</item>
+        <item>1) Juara 2 Cerdas Cermat Alkitab</item>
+        <item>1) Juara 1 Debate English Universitas Brawijaya \n
+        2) Juara Speech terbanyak Universitas Telkom</item>
+    </string-array>
+</resources>
