@@ -8,7 +8,7 @@ Halo, saya Reynhard Powiwi! Ini adalah projek UKM Fair APK. 🚀 Aplikasi ini be
 # Screenshot Aplikasi
 Berikut adalah beberapa screenshot dari aplikasi UKM Fair APK:
 
-<img src="Gambar/homelist.jpg" alt="Home" width="100"> <img src="Gambar/detaillist.jpg" alt="Detail" width="100"> <img src="Gambar/about.jpg" alt="About" width="100"> 
+<img src="Gambar/homelist.jpg" alt="Home" width="150"> <img src="Gambar/detaillist.jpg" alt="Detail" width="150"> <img src="Gambar/about.jpg" alt="About" width="150"> 
 
 
 
