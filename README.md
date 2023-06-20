@@ -1,4 +1,4 @@
-# Submission_Dicoding-Belajar_Membuat_Aplikasi_Android_untuk_Pemula
+# UKM FAIR APK
 Halo, saya Reynhard Powiwi! Ini adalah projek UKM Fair APK. 🚀 Aplikasi ini berguna untuk menampilkan informasi List UKM di Telkom University. 🏫 Dengan aplikasi ini, mahasiswa baru dapat dengan mudah mendapatkan informasi mengenai UKM yang ada di Telkom University.
 
 # Fitur-Fitur
