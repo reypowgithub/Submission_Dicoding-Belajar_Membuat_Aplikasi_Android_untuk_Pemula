@@ -7,7 +7,7 @@ Halo, saya Reynhard Powiwi! Ini adalah projek UKM Fair APK. 🚀 Aplikasi ini be
 
 # Screenshot Aplikasi
 Berikut adalah beberapa screenshot dari aplikasi UKM Fair APK:
-
+![About](Gambar.about)
 
 
 Selamat mencoba dan semoga aplikasi ini dapat membantu mahasiswa baru dalam menjelajahi dan bergabung dengan UKM yang menarik di Telkom University! 😉✨
